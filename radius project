@@ -1,0 +1,4 @@
+pi=3.142
+radius=float(input("Enter the radius"))
+Area=pi*radius**2
+print("Area:",Area)
